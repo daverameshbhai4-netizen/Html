@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # અહીં તમારો બોટ ટોકન મૂકો
-TOKEN = "YOUR_BOT_API_TOKEN"
+TOKEN = "8227956896:AAGIhSNsreiYfED216x92Wlkvgb-GpaMxa4"
 
 # /start કમાન્ડ
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
